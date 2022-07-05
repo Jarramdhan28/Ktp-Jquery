@@ -1,0 +1,65 @@
+body{
+   padding: 0px;
+   margin: 0px; 
+}
+.body{
+    margin: auto;
+    width: 80%;
+}
+
+.form{
+    margin-bottom: 100px;
+}
+
+.formdata{
+    padding: 10px 50px 50px 50px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+
+input, textarea{
+    width: 96%;
+    padding: 8px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+}
+
+select{
+    width: 100%;
+    padding: 8px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    border-radius: 4px; 
+}
+
+button{
+    padding: 8px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    background-color: white;
+}
+
+button:hover{
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    color: white;
+}
+
+.listdata{
+    margin-bottom: 100px;
+}
+
+.tema{
+    margin-bottom: -40px;
+}
+.tema button{
+    padding: 6px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    background-color: white;
+    border-radius: 2px;
+}
+
+.tema button:hover{
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    color: white;
+}
+
